@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duskless! You can call me Bea, Khoi or Meriel. :]
+- 👀 I’m interested in learning about the world of programming.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on beginners who are on the same trajectory as me and want to learn together.
+- 📫 How to reach me via email or instagram.
