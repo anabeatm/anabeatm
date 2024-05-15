@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my Front-end skills through Udemy**
 
-- 🌱 I’m currently learning **python, java script, html, css algorithms and database**
+- 🌱 I’m currently learning **python, java script, html, css, algorithms and database**
 
 - 💬 Ask me about **software engineering**
 
