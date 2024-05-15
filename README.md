@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **ana.beat20051@gmail.com**
 
-- ⚡ Fun fact **i'm a good learner**
+- ⚡ Fun fact **I study software engineering at IFPR and started my studies in 2024, scheduled to end in 2027**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ana beatriz tavares malaquias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana beatriz tavares malaquias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anbeeatavares-malaquias-80375b2b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anbeeatavares-malaquias-80375b2b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/@mythga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mythga_" height="30" width="40" /></a>
 <a href="https://discord.gg/myth0420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="myth0420" height="30" width="40" /></a>
 </p>
