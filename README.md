@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana Beatriz Tavares Malaquias</h1>
+<h1 align="center">Hi 👋, I'm Ana Beatriz </h1>
 <h3 align="center">A passionate beginner from Brazil</h3>
 
 - 🔭 I’m currently working on **developing my Front-end skills through Udemy**
