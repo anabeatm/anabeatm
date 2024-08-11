@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Ana Beatriz </h1>
 <h3 align="center">A passionate beginner from Brazil</h3>
 
-- 🔭 I’m currently working on **developing my Front-end skills through Udemy**
+- 🔭 I’m currently working on **developing my Front-end skills**
 
-- 🌱 I’m currently learning **python, java script, html, css, algorithms and database**
+- 🌱 I’m currently learning **python, js, html, css, algorithms and database**
 
 - 💬 Ask me about **software engineering**
 
 - 📫 How to reach me **ana.beat20051@gmail.com**
 
-- ⚡ Fun fact **I study software engineering at IFPR and started my studies in 2024, scheduled to end in 2027**
+- ⚡ Fun fact: **I study software engineering at IFPR and started my studies in 2024, scheduled to end in 2027**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
