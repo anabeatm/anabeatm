@@ -1,9 +1,6 @@
 <table>
   <tr>
-    <td style="width: 540px;">
-        <img src="https://github.com/anabeatm/anabeatm/blob/main/vertical.jpg" alt="Ana Beatriz"/>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td>
       <p style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias
       </p>
