@@ -2,7 +2,7 @@
   <tr>
     <td style="width: 250%;">
       <p>
-          <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 200%;" />
+          <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 200%; border: none;" />
       </p>
     </td>
     <td style="width: 50%; vertical-align: top;">
@@ -11,7 +11,6 @@
       </p>
   
       
-    
     /About_Me 
     ├── bio.txt 
     │     └── any pronouns - brazilian - (pt/br + english) │ 
