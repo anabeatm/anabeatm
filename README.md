@@ -1,11 +1,10 @@
-
 <table>
   <tr>
     <td>
       <h2 style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias ⭑.ᐟ
       </h2>
-      <img scr="https://github.com/anabeatm/anabeatm/blob/main/uwu.jpg"/>
+      <img scr="https://github.com/anabeatm/anabeatm/blob/main/uwu.jpg" style="width: 50%;"/>
     
   
       
