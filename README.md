@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td>
-      <h1 style="font-family: monospace; font-size: 16px; align: center;">
+      <h2 style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias ⭑.ᐟ
-      </h1>
+      </h2>
     
   
       
