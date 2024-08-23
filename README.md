@@ -8,24 +8,24 @@
     
     /About_Me 
     ├── bio.txt 
-    ├── any pronouns - brazilian - (pt/br + english) │ 
+    │     └── any pronouns - brazilian - (pt/br + english) │ 
     │ 
     │
     ├── electronics technician │ 
     │ 
     │
-    ├── software engineering undergraduated │ 
-    │   └── embedded systems developer in the research and development 
+    ├── software engineering undergraduated  
+    │     └── exploring the design, development, and optimization of software systems to solve real-world problems │
     │
-    ├── os │ 
-    ├── windows.txt │
-    │   └── Windows 11 Home 
+    ├── os  
+    │    ├── windows.txt 
+    │          └── Windows 11 Home │
     │
-    ├── languages │ 
-    │   └── python.py  
-    │   └── html.html  
-    │   └── css.css  
-    │   └── javascript.js  
+    ├── languages  
+    │     └── python.py  
+    │     └── html.html  
+    │     └── css.css  
+    │     └── javascript.js │ 
     
   </tr>
 </table>
