@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="width: 50%;">
+    <td>
         <img src="https://github.com/anabeatm/anabeatm/blob/main/vertical.jpg" alt="Ana Beatriz"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
