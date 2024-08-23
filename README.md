@@ -7,7 +7,7 @@
       <p style="font-family: monospace; font-size: 16px">
         Ana Beatriz Tavares Malaquias
       </p>
-    </td>
+  
       
     
     /About_Me 
