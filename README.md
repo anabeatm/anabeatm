@@ -4,10 +4,8 @@
       <h2 style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias ⭑.ᐟ
       </h2>
-      <img scr="https://github.com/anabeatm/anabeatm/blob/main/uwu.jpg" style="width: 200%;"/>
     
-  
-      
+
     /About_Me 
     ├── bio.txt 
     │     └── any pronouns - brazilian - (pt/br + english) │ 
@@ -32,4 +30,4 @@
     
   </tr>
 </table>
-<img scr="uwu.jpg" style="width: 200%;"/>
+
