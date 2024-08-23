@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td style="width: 50%;">
-        <img />
-    </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias
