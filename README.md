@@ -21,11 +21,11 @@
     │    ├── windows.txt 
     │          └── Windows 11 Home │
     │
-    ├── languages  
-    │     └── python.py  
-    │     └── html.html  
-    │     └── css.css  
-    │     └── javascript.js │ 
+    └── languages  
+         └── python.py  
+         └── html.html  
+         └── css.css  
+         └── javascript.js │ 
     
   </tr>
 </table>
