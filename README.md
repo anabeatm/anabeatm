@@ -1,12 +1,13 @@
 <table>
   <tr>
+    <td style="width: 50%;">
+        <img src="https://github.com/anabeatm/anabeatm/blob/main/vertical.jpg" alt="Ana Beatriz" style="width: 200%; border: none;"/>
+    </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias
       </p>
-    <td style="width: 50%;">
-        <img src="https://github.com/anabeatm/anabeatm/blob/main/vertical.jpg" alt="Ana Beatriz" style="width: 200%; border: none;"/>
-    </td>
+    
   
       
     /About_Me 
