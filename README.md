@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 250%;">
-      <p align="center">
+      <p>
           <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 200%;" />
       </p>
     </td>
