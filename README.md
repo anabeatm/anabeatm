@@ -1,8 +1,10 @@
 <table>
   <tr>
-    <p align="center">
-        <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 150%; height: 300px;" />
-    </p>
+    <td>
+      <p align="center">
+          <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 150%; height: 300px;" />
+      </p>
+    </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px; align: center;">
         Ana Beatriz Tavares Malaquias
