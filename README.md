@@ -32,4 +32,4 @@
     
   </tr>
 </table>
-<img scr="https://github.com/anabeatm/anabeatm/blob/main/uwu.jpg" style="width: 200%;"/>
+<img scr="uwu.jpg" style="width: 200%;"/>
