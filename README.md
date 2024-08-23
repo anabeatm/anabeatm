@@ -3,6 +3,7 @@
     <p align="center">
         <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 150%; height: 300px;" />
     </p>
+    
     <h1 align="center">Ana Beatriz Tavares Malaquias</h1>
       
     
@@ -11,17 +12,18 @@
     │     └── any pronouns - brazilian - (pt/br + english) │ 
     │ 
     │
-    ├── electronics technician │ 
+    ├── front-end │ 
+    ├── pc maintenance and formatting │
     │ 
     │
     ├── software engineering undergraduated  
     │     └── exploring the design, development, and optimization of software systems to solve real-world problems │
     │
     ├── os  
-    │    ├── windows.txt 
+    │    └── windows.txt 
     │          └── Windows 11 Home │
     │
-    └── languages  
+    └── languages/learning  
          └── python.py  
          └── html.html  
          └── css.css  
