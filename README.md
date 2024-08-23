@@ -3,8 +3,8 @@
     <p align="center">
         <img src="https://github.com/anabeatm/anabeatm/blob/main/baixados%20(1).jpg" alt="Ana Beatriz" style="width: 150%; height: 300px;" />
     </p>
-    <td>
-      <h1 align="center">Ana Beatriz Tavares Malaquias</h1>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px">Ana Beatriz Tavares Malaquias</p>
     </td>
       
     
