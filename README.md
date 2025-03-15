@@ -11,9 +11,9 @@
     │     └── brazilian - (pt/br + english) │ 
     │ 
     │
-    ├── front-end (in process)                     │ 
-    ├── back-end (in process)                      │
-    ├── pc maintenance and formatting              │
+    ├── front-end (in process)        │ 
+    ├── back-end (in process)         │
+    ├── pc maintenance and formatting │
     │ 
     │
     ├── software engineering undergraduated  
