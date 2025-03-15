@@ -11,8 +11,9 @@
     │     └── brazilian - (pt/br + english) │ 
     │ 
     │
-    ├── front-end │ 
-    ├── pc maintenance and formatting │
+    ├── front-end (in process)                     │ 
+    ├── back-end (in process)                      │
+    ├── pc maintenance and formatting              │
     │ 
     │
     ├── software engineering undergraduated  
@@ -22,11 +23,11 @@
     │    └── windows.txt 
     │          └── Windows 11 Home │
     │
-    └── languages/learning  
-         └── python.py  
-         └── html.html  
-         └── css.css  
-         └── javascript.js │ 
+    └── languages/learning
+          └── java.java 
+          └── python.py  
+          └── html.html  
+          └── css.css    │
     
   </tr>
 </table>
