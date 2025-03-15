@@ -8,7 +8,7 @@
 
     /About_Me 
     ├── bio.txt 
-    │     └── any pronouns - brazilian - (pt/br + english) │ 
+    │     └── brazilian - (pt/br + english) │ 
     │ 
     │
     ├── front-end │ 
