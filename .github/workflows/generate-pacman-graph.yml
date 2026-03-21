@@ -5,7 +5,6 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# 1. SOLUÇÃO DO ERRO 128: Dando permissão explícita para a Action salvar arquivos
 permissions:
   contents: write
 
@@ -15,7 +14,6 @@ jobs:
     name: generate-contribution-graph
 
     steps:
-      # 2. SOLUÇÃO DO AVISO NODE: Atualizando de v3 para v4
       - uses: actions/checkout@v4
       
       - uses: Platane/snk/svg-only@v3
@@ -26,8 +24,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 2. SOLUÇÃO DO AVISO NODE: Atualizando a ferramenta de deploy para v4
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
