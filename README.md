@@ -27,7 +27,7 @@
 ###
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml3Z29vNnByazBpNmYwdTk4MXo1dWEzOW0zN3dhYjF4MjltNTg4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0VoVGS0KrJZf1Yz6L/giphy.gif"  />
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=anabeatm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anabeatm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
